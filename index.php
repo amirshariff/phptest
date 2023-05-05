@@ -1,4 +1,4 @@
 <?php
 echo "Hello Amir!";
-echo "I am a devops Engineer expert in making";
+echo "I am a devops Engineer expert";
 ?>
